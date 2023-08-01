@@ -14,11 +14,11 @@
 
 ## Repository
 
-**###** **👉 Nupy Mobile App**
+### 👉 Nupy Mobile App**
 
 [Nupy Mobile App](https://github.com/looktab-inc/SeoulWeb3App)
 
-**###** **👉Nupy Admin Web**
+### 👉Nupy Admin Web**
 
 [Nupy Web](https://github.com/looktab-inc/SeoulWeb3Admin)
 
